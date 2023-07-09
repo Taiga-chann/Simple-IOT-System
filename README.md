@@ -1,2 +1,2 @@
 # Simple-IOT-System
-Simple system that receive environment data (temperature, humid,...) and send to a website
+Simple system that receive environment data (temperature, humid,...) and send to a website (local for now).
