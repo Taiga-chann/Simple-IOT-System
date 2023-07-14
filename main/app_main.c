@@ -124,7 +124,7 @@ static void mqtt_app_start(void)
 {
     esp_mqtt_client_config_t mqtt_cfg = {
         .host = "mqtt.flespi.io",
-        .username = "aPumwqfOquCDNHiwKego3HDcVgvrALpyqHKKXOpe6RFJmN4WQa9JFALrG4G6GVtU",
+        .username = "PUT_YOUR_TOKEN_HERE",
         .password = "",
         .port = 1883
     };
